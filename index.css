@@ -1,0 +1,15 @@
+.subject {
+    border-block: 0.02px grey;
+    margin: 0 0 10%;
+    width: 20%;
+    height: 20px;
+    font-display: center;
+    font-weight: 300;
+    font-size: 12px; 
+    float: right;
+}
+
+.navbar {
+    float: flex;
+}
+
